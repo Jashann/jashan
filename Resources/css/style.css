@@ -672,7 +672,7 @@ div#overlay.show{
         padding: 2rem 0;
     }
     #projects .project-content .project-btns{
-        margin: 2rem;
+        margin: 2rem 1rem;
     }
 }
 @media only screen and (max-width:768px){
